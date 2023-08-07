@@ -1,14 +1,14 @@
 # Design_of_Dual_Clock_Asynchronous_FIFO
 This project shows the design of Synchronous FIFO and Asynchronous FIFO
+![FIFO_structure](https://github.com/Manikanta-IITB/Design_of_Synchronous_and_Asynchronous_FIFO/assets/138108630/576b9869-bc35-437b-b691-e95a1f4bce90)
 ## Asynchronous FIFO
 <div align="justify"> An Asynchronous FIFO (First-In-First-Out) is a type of digital circuit that facilitates data storage and transfer between two
 asynchronous clock domains. It is commonly used in digital systems where data needs to be transferred between different
 clock domains or between systems with different timing characteristics.
 The theory behind an asynchronous FIFO involves managing data transfer, addressing potential timing differences, and
 ensuring data integrity. Here are the key concepts: </div>
-![FIFO_structure](https://github.com/Manikanta-IITB/Design_of_Synchronous_and_Asynchronous_FIFO/assets/138108630/576b9869-bc35-437b-b691-e95a1f4bce90)
 ## FIFO Structure
-<div align="justify"> An asynchronous FIFO consists of two major components: the write port and the read port. The write port
+<div align="justify"> An asynchronous FIFO consists of two major components the write port and the read port. The write port
 receives data from the source clock domain and stores it in memory, while the read port retrieves data from memory and
 transfers it to the destination clock domain. </div>
 ## Read and Write Pointers
