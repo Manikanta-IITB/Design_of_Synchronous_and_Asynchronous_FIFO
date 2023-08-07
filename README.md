@@ -35,3 +35,5 @@ reducing the risk of unpredictable behavior.
 Overall, the theory behind an asynchronous FIFO revolves around managing data transfer between different clock domains
 while considering timing differences, ensuring data integrity, and providing status indications for proper operation. The
 actual implementation of an asynchronous FIFO involves designing the circuitry and control logic based on these principles.</p>
+![Screenshot from 2023-08-08 00-04-08](https://github.com/Manikanta-IITB/Design_of_Synchronous_and_Asynchronous_FIFO/assets/138108630/eeb1f21d-cf05-47a7-87e9-e4fedc345c31)
+
