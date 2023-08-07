@@ -1,4 +1,4 @@
-# Design_of_Dual_Clock_Asynchronous_FIFO
+# Design of Dual Clock Asynchronous FIFO
 This project shows the design of Synchronous FIFO and Asynchronous FIFO
 ![FIFO_img](https://github.com/Manikanta-IITB/Design_of_Synchronous_and_Asynchronous_FIFO/assets/138108630/737c48eb-6231-46ae-9732-fde54bf9b088)
 ## Asynchronous FIFO
